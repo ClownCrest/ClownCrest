@@ -1,16 +1,14 @@
-## Hi there 👋
+# Anmol Mittal
 
-<!--
-**ClownCrest/ClownCrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Anmol Mittal, a Systems Technician based in Chilliwack. Currently, I am pursuing my Bachelor of Applied Science in Computers at BCIT. I have a passion for technology and systems management, and I am constantly learning to enhance my skills in the ever-evolving tech field.
 
-Here are some ideas to get you started:
+## About Me
+- **Current Role**: Systems Technician at a Chilliwack-based company.
+- **Education**: Bachelor of Applied Science in Computers (BCIT).
+- **Passionate About**: Systems administration, technology troubleshooting, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to browse my repositories, and don't hesitate to connect with me!
+
+## Connect with me
+- Email: [iamanmol4455@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/it-anmol/]
