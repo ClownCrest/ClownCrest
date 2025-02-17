@@ -10,5 +10,4 @@ Hello! I'm Anmol Mittal, a Systems Technician based in Chilliwack. Currently, I 
 Feel free to browse my repositories, and don't hesitate to connect with me!
 
 ## Connect with me
-- Email: [iamanmol4455@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/it-anmol/]
+[https://type.link/iamanmol4455]
